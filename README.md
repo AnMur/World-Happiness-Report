@@ -12,7 +12,7 @@ In order to identify and further explore societal/economic traits that correlate
 
 ## Contents: 
 - [Background](#Background)
-- [Outside Research](#Outside Research)
+- [Outside Research](#Outside_Research)
 - [Data Workflow:](#Workflow)
     - [Collection & Cleaning](#Collection & Cleaning)
     - [Importing / Cleaning](#Importing / Cleaning:)
