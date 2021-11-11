@@ -14,12 +14,12 @@ In order to identify and further explore societal/economic traits that correlate
 - [Background](#Background)
 - [Outside Research](#Outside_Research)
 - [Data Workflow:](#Workflow)
-    - [Collection & Cleaning](#Collection & Cleaning)
-    - [Importing / Cleaning](#Importing / Cleaning:)
-    - [Imputation Process](#Imputation Process)
-    - [Exploratory Data Analysis](#Exploratory Data Analysis)
+    - [Collection & Cleaning](#Collection_&_Cleaning)
+    - [Importing / Cleaning](#Importing_/_Cleaning:)
+    - [Imputation Process](#Imputation_Process)
+    - [Exploratory Data Analysis](#Exploratory_Data_Analysis)
     - [Modeling](#Modeling)
-- [Conclusions and Recommendations](#Conclusions and Recommendations)
+- [Conclusions and Recommendations](#Conclusions_and_Recommendations)
 
 
 ### Background: 
